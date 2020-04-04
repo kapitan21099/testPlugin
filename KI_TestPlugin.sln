@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KI_TestPlugin", "KI_TestPlugin\KI_TestPlugin.csproj", "{8B8A726C-8BF6-47BA-A024-C03DA8FEA7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCRMApp", "..\..\..\Desktop\UDS\Test Edu Plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\ConsoleCRMApp.csproj", "{B7868D81-BA96-4F9F-B628-CA2F6246E837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8A726C-8BF6-47BA-A024-C03DA8FEA7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8A726C-8BF6-47BA-A024-C03DA8FEA7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8A726C-8BF6-47BA-A024-C03DA8FEA7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8A726C-8BF6-47BA-A024-C03DA8FEA7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7868D81-BA96-4F9F-B628-CA2F6246E837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7868D81-BA96-4F9F-B628-CA2F6246E837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7868D81-BA96-4F9F-B628-CA2F6246E837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7868D81-BA96-4F9F-B628-CA2F6246E837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0BE7F0-C9E9-477E-9DD6-94E1A1461039}
+	EndGlobalSection
+EndGlobal
