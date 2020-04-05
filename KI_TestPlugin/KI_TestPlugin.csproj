@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DeactiveCE_KI.cs" />
     <Compile Include="Repository\ContactRepository.cs" />
     <Compile Include="Repository\DeactivateLinkedRecords.cs" />
     <Compile Include="ServiceClass.cs" />
